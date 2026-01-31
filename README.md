@@ -81,4 +81,4 @@ These metrics provide insight into:
 ## Code Structure
 
 * `housePriceLinearReg.ipynb` – Data loading, EDA, feature selection, linear regression modeling, and evaluation
-* `house_prices.csv` – Dataset used for training and testing
+* `House Price Indiacsv` – Dataset used for training and testing
